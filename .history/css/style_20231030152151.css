@@ -1,0 +1,17 @@
+p{
+    font-family: devil;
+    line-height: 200%;
+}
+@font-face {
+    font-family: devil;
+    src: url(/fonts/SDHauntedHouse_demo.otf);
+}
+
+#para1{
+    background-color: burlywood;
+    color: brown;
+}
+
+.para2{
+    background-image: url(/) ;
+}

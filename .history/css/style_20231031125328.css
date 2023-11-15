@@ -1,0 +1,41 @@
+p{
+    font-family: devil;
+    line-height: 200%;
+}
+@font-face {
+    font-family: devil;
+    src: url(/fonts/SDHauntedHouse_demo.otf);
+}
+
+#para1{
+    background-color: burlywood;
+    color: brown;
+    padding: 20px;
+    margin: 10px;
+    border: solid;
+}
+
+.para2{
+    background-image: url(/images/pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg) ;
+    color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-image: url(/images/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a:hover{
+    color:darkorange
+}
+a:active{
+    color: greenyellow;
+}
+div.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    color: black;
+  }

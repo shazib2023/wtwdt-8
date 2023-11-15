@@ -1,0 +1,8 @@
+p{
+    font-family: devil;
+    line-height: 150%;
+}
+@font-face {
+    font-family: devil;
+    src: url(/fonts/SDHauntedHouse_demo.otf);
+}
